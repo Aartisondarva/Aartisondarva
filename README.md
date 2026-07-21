@@ -2,10 +2,10 @@
 
 # Hi 👋, I'm Aarti Sondarva
 
-### 💻 Full Stack Developer
+### 💻 React js Developer
 ### 🎓 B.Tech Information Technology Graduate
 ### 🚀 Building Modern Web Applications
-### 🎯 GATE & DRDO Aspirant
+### 💻 Aspiring MERN Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;React+%7C+JavaScript+%7C+Java;Always+Learning+New+Things!" />
 
