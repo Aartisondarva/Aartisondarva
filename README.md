@@ -1,4 +1,5 @@
 <div align="center">
+<img width="100%" src="YOUR_BANNER_LINK_HERE"/>
 
 # Hi 👋, I'm Aarti Sondarva
 
