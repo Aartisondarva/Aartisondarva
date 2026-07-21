@@ -7,8 +7,7 @@
 ### 🚀 Building Modern Web Applications
 ### 💻 Aspiring MERN Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=950&lines=Hi+👋,+I'm+Aarti+Sondarva;Welcome+to+my+GitHub+Profile!;B.Tech+Information+Technology+Graduate;Aspiring+MERN+Stack+Developer;Creating+Projects+with+Passion+💙;Learning+Something+New+Every+Day+📚;Let's+Build+Something+Amazing+Together+🚀" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aarti+Sondarva+%F0%9F%91%8B;B.Tech+Information+Technology+Graduate;Aspiring+MERN+Stack+Developer;Currently+Learning+React+%26+Node.js;Building+Real-World+Projects;Always+Learning+New+Technologies+%F0%9F%9A%80" />
 </div>
 
 ---
