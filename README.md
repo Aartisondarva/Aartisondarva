@@ -11,7 +11,6 @@ B.Tech Information Technology Graduate • Aspiring MERN Stack Developer
 </div>
 
 ---
----
 
 # 👩‍💻 About Me
 
@@ -43,7 +42,18 @@ I enjoy creating clean, responsive, and user-friendly web applications using **R
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
 
 </p>
+
 ---
+
+## GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aartisondarva&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aartisondarva&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 # 🔥 GitHub Streak
 
@@ -54,3 +64,31 @@ I enjoy creating clean, responsive, and user-friendly web applications using **R
 </p>
 
 ---
+
+## Connect With Me
+
+<p align="center">
+
+<a href="mailto:aartisondarva3@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/Aartisondarva">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/aarti-sondarva-854330290/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+Thanks for visiting my profile!
+
+If you like my projects, consider giving them a ⭐
+
+</div>
