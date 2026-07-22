@@ -1,5 +1,8 @@
 <div align="center">
-<img width="100%" src="YOUR_BANNER_LINK_HERE"/>
+  
+<p align="center">
+  <img src="./github_banner.png" alt="Aarti Sondarva Banner" width="100%">
+</p>
 
 # Hi 👋, I'm Aarti Sondarva
 
