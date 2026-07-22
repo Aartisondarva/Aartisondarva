@@ -1,8 +1,6 @@
 <div align="center">
   
-<p align="center">
-  <img src="./github_banner.png" alt="Aarti Sondarva Banner" width="100%">
-</p>
+
 
 # Hi 👋, I'm Aarti Sondarva
 
