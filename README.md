@@ -1,45 +1,48 @@
 <div align="center">
-  
 
+# Hi, I'm Aarti Sondarva 👋
 
-# Hi 👋, I'm Aarti Sondarva
+### React JS Developer
 
-### 💻 React js Developer
-### 🎓 B.Tech Information Technology Graduate
-### 🚀 Building Modern Web Applications
-### 💻 Aspiring MERN Stack Developer
+B.Tech Information Technology Graduate • Aspiring MERN Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Hello,+I'm+Aarti+Sondarva;Welcome+to+my+GitHub;B.Tech+Information+Technology+Graduate;Aspiring+MERN+Stack+Developer;Building+Projects;Learning+Every+Day;Let's+Build+Something+Great" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Learning+MERN+Stack;Always+Learning+Something+New;Open+to+Internships+and+Collaboration" />
+
 </div>
 
+---
 ---
 
 # 👩‍💻 About Me
 
-✨ Passionate about building beautiful, responsive and modern web applications.
+I'm a **B.Tech Information Technology Graduate** with a strong interest in front-end development and modern web technologies.
 
-🎓 B.Tech Graduate in Information Technology.
+Currently, I'm expanding my skills by learning the **MERN Stack** while building practical, real-world projects.
 
-🌱 Currently learning Full Stack Development.
+I enjoy creating clean, responsive, and user-friendly web applications using **React JS** and continuously improving my problem-solving and development skills.
 
-🚀 Love creating real-world projects.
-
-📚 Preparing for GATE while improving my development skills.
-
-💡 Goal: Become an excellent Software Engineer.
-
----
+- 🌱 Currently learning **Node.js, Express.js & MongoDB**
+- 💻 Focused on **React JS Development**
+- 🚀 Building real-world projects
+- 📚 Continuously learning new technologies
+- 🎯 Goal: Become a Software Engineer
 
 # ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,java,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,java,c,git,github,vscode,mysql&theme=dark"/>
 
 </p>
 
 ---
+## Currently Learning
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
+
+</p>
 ---
 
 # 🔥 GitHub Streak
