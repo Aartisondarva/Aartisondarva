@@ -6,7 +6,7 @@
 
 B.Tech Information Technology Graduate • Aspiring MERN Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Learning+MERN+Stack;Always+Learning+Something+New;Open+to+Internships+and+Collaboration" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Learning+MERN+Stack;Always+Learning+Something+New;Open+to+Work+and+Collaboration" />
 
 </div>
 
