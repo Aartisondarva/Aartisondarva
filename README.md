@@ -77,7 +77,7 @@ I enjoy creating clean, responsive, and user-friendly web applications using **R
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/aarti-sondarva-854330290/">
+<a href="www.linkedin.com/in/aarti-sondarva-854330290/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
