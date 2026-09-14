@@ -18,7 +18,7 @@
 - 💻 Frontend Developer specializing in **React.js**, with 4 internships building responsive, component-based web applications
 - 🌱 Currently expanding my skills into the **MERN Stack** (Node.js & Express)
 - 🛠️ I enjoy translating UI/UX designs into clean, maintainable, production-ready code
-- 📍 Based in Ahmedabad, Gujarat
+
 
 ---
 
@@ -74,13 +74,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aartisondarva&show_icons=true&theme=default" alt="Aarti's GitHub Stats" />
-</p>
-
----
 
 ### 📫 Connect with Me
 
