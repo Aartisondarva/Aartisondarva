@@ -1,94 +1,90 @@
-<div align="center">
-
-# Hi, I'm Aarti Sondarva 👋
-
-### React JS Developer
-
-B.Tech Information Technology Graduate • Aspiring MERN Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Learning+MERN+Stack;Always+Learning+Something+New;Open+to+Work+and+Collaboration" />
-
-</div>
-
----
-
-# 👩‍💻 About Me
-
-I'm a **B.Tech Information Technology Graduate** with a strong interest in front-end development and modern web technologies.
-
-Currently, I'm expanding my skills by learning the **MERN Stack** while building practical, real-world projects.
-
-I enjoy creating clean, responsive, and user-friendly web applications using **React JS** and continuously improving my problem-solving and development skills.
-
-- 🌱 Currently learning **Node.js, Express.js & MongoDB**
-- 💻 Focused on **React JS Development**
-- 🚀 Building real-world projects
-- 📚 Continuously learning new technologies
-- 🎯 Goal: Become a Software Engineer
-
-# ⚡ Tech Stack
+<h1 align="center">Hi 👋, I'm Aarti Sondarva</h1>
+<h3 align="center">React.js Developer | Frontend Engineer | MERN Stack Learner</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,java,c,git,github,vscode,mysql&theme=dark"/>
-
-</p>
-
----
-## Currently Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
-
+  <a href="https://linkedin.com/in/aarti-sondarva-854330290" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aartisondarva3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## GitHub Statistics
+### 🚀 About Me
 
-<p align="center">
+- 🎓 B.Tech in Information Technology, Indrashil University (2026)
+- 💻 Frontend Developer specializing in **React.js**, with 4 internships building responsive, component-based web applications
+- 🌱 Currently expanding my skills into the **MERN Stack** (Node.js & Express)
+- 🛠️ I enjoy translating UI/UX designs into clean, maintainable, production-ready code
+- 📍 Based in Ahmedabad, Gujarat
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aartisondarva&show_icons=true&theme=github_dark&hide_border=true"/>
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aartisondarva&layout=compact&theme=github_dark&hide_border=true"/>
+### 🧰 Tech Stack
 
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-# 🔥 GitHub Streak
+**Backend & Database**
 
-<p align="center">
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=Aartisondarva&theme=tokyonight&hide_border=true"/>
+**Tools**
 
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</p>
+
+**Also Familiar With**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 </p>
 
 ---
 
-## Connect With Me
+### 📌 Featured Projects
+
+| Project | Tech Stack | Description |
+|---|---|---|
+| **[Personal Portfolio Website](https://github.com/Aartisondarva/my-portfolio)** | React.js, CSS3, Bootstrap, React Router | Responsive multi-page portfolio built with component-based architecture and client-side routing. |
+| **[Task Management App](https://github.com/Aartisondarva/task-manager)** | React.js, React Hooks, LocalStorage | Full CRUD task manager with persistent storage and All / Active / Completed filtering. |
+| **Weather Forecast App** *(coming soon)* | React.js, Axios, OpenWeatherMap API | Real-time weather app with dynamic backgrounds based on weather conditions, plus error and loading states. |
+| **Image-to-Sketch Converter** *(coming soon)* | Python, OpenCV | Converts uploaded images into pencil sketches with real-time preview and one-click download. |
+| **Feedback Form Website** *(coming soon)* | HTML, CSS, JavaScript, Database | Responsive feedback form with a backend database for secure storage of user responses. |
+
+> 🚧 The last three projects are being uploaded to GitHub soon — check back for live links!
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-
-<a href="mailto:aartisondarva3@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/Aartisondarva">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="www.linkedin.com/in/aarti-sondarva-854330290/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Aartisondarva&show_icons=true&theme=default" alt="Aarti's GitHub Stats" />
 </p>
 
 ---
 
-<div align="center">
+### 📫 Connect with Me
 
-Thanks for visiting my profile!
-
-If you like my projects, consider giving them a ⭐
-
-</div>
+<p>
+  <a href="https://linkedin.com/in/aarti-sondarva-854330290" target="_blank">LinkedIn</a> •
+  <a href="mailto:aartisondarva3@gmail.com">Email</a>
+</p>
